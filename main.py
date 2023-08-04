@@ -9,7 +9,7 @@ url = "https://sandboxapicdc.cisco.com/api/aaaLogin.json"
 data = {
         "aaaUser" : {
         "attributes" : {
-            "name" : "admin",
+            "name" : "c",
             "pwd" : "!v3G@!4@Y"
         }
     }
