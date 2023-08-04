@@ -1,7 +1,8 @@
 import requests
 import json
-
+import conf
 import requests.packages
+
 
 url = "https://sandboxapicdc.cisco.com/api/aaaLogin.json"
 
